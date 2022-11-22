@@ -18,7 +18,9 @@ url = "https://infodepot.korea.ac.kr/lecture1/lecsubjectPlanView.jsp?year=2022&t
 - 위 링크에서 **year=** 을 수정하면 학년도 변경
 - 위 링크에서 **term=** 을 수정하면 학기 변경. (1학기 : 1R, 2학기 : 2R)
 
+<!---
 # 2022년 제20대 대한민국 대통령 선거 기념
 - [president_20.py](https://github.com/jason2133/korea_univ_sugang_crawling/blob/master/president_20.py)
 - 2022년 3월 9일 (수)
 - 더불어민주당 이재명 vs 국민의힘 윤석열의 개표율 및 각 후보 득표율, 그리고 차이값을 1분 단위로 크롤링하는 코드를 추가해놓았습니다. 
+--->
