@@ -16,7 +16,7 @@
 url = "https://infodepot.korea.ac.kr/lecture1/lecsubjectPlanView.jsp?year=2022&term=1R&grad_cd=0136&col_cd=9999&dept_cd=4653&cour_cd=" + your_major + str(number)
 ~~~
 - 위 링크에서 **year=** 을 수정하면 학년도 변경
-- 위 링크에서 **term=** 을 수정하면 학기 변경. (1학기 : 1R, 2학기 : 2R)
+- 위 링크에서 **term=** 을 수정하면 학기 변경. (1학기 : 1R, 2학기 : 2R, 여름 계절학기 : 1S, 겨울 계절학기 : 2W)
 
 <!---
 # 2022년 제20대 대한민국 대통령 선거 기념
